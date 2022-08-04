@@ -2,15 +2,25 @@ package Basics;
 
 public class Main {
 
-    class Student{
-        String name;
-        int roll;
-    }
+
 
 
     public static void main(String[] args) {
 
-        Student shivam;
+
+        Student[] student=new Student[5];
+        Student kunal=new Student();
+        kunal.name="shivam";
+        kunal.roll=115;
+        kunal.marks=90.9f;
+        System.out.println(kunal.marks);
+
 
     }
+}
+
+class Student{
+    String name;
+    int roll;
+    float marks;
 }
