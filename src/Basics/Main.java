@@ -15,7 +15,6 @@ public class Main {
         kunal.marks=90.9f;
         System.out.println(kunal.marks);
 
-
     }
 }
 
