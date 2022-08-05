@@ -3,7 +3,7 @@ package Basics;
 public class Main {
 
 
-    public static Package.Static obj;
+//    public static PackageIN.Static obj;
 
     public static void main(String[] args) {
 

@@ -34,4 +34,8 @@ class A{
         this.name=name;
     }
 
+    @Override
+    protected void finalize() throws Throwable {
+        System.out.println("object is distroyrd");
+    }
 }
