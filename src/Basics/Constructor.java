@@ -18,10 +18,20 @@ class Student1{
     int roll;
     float marks;
 
+
     Student1(){
         this.name="shivam";
         this.roll=121;
         this.marks=99.0f;
     }
+    Student1(int roll,String name){
+        this.name=name;
+        this.roll=roll;
+    }
+
+//    Student1(){
+////        this(12,"def",56f);
+//    }
+
 
 }
