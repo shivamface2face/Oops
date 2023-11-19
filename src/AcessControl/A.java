@@ -12,4 +12,11 @@ public class A {
 
     }
 
+    public void setNum(int num) {
+        this.num = num;
+    }
+
+    public int getNum() {
+        return num;
+    }
 }

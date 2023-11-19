@@ -1,6 +1,10 @@
 package Abstract;
 
 public class Son extends Parents{
+    public Son(int age) {
+        super(age);
+    }
+
     @Override
     void carrer(String name) {
         System.out.println("i am going to be "+ " "+name);

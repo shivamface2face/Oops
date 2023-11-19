@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c860a4e-bf1d-4225-bfd3-13317383968e" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Genrics/CustomArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hexware/Rainy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hexware/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Abstract/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstract/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Abstract/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstract/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AcessControl/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AcessControl/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Cte4eb8AIFeTQWTcULpTiEv62g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Rainy">
+    <configuration name="CustomArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Genrics.CustomArrayList" />
+      <module name="Oops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Genrics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterFace.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterFace.Main" />
+      <module name="Oops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterFace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstract.Main" />
+      <module name="Oops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rainy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hexware.Rainy" />
+      <module name="Oops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hexware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hexware.main" />
+      <module name="Oops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hexware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Rainy" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.CustomArrayList" />
+        <item itemvalue="Application.InterFace.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c860a4e-bf1d-4225-bfd3-13317383968e" name="Changes" comment="" />
+      <created>1659626121914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659626121914</updated>
+    </task>
+    <task id="LOCAL-00001" summary="class basic">
+      <created>1659628269382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659628269382</updated>
+    </task>
+    <task id="LOCAL-00002" summary="class basic">
+      <created>1659628340460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659628340460</updated>
+    </task>
+    <task id="LOCAL-00003" summary="class basic">
+      <created>1659628660512</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659628660512</updated>
+    </task>
+    <task id="LOCAL-00004" summary="class basic">
+      <created>1659629639901</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659629639901</updated>
+    </task>
+    <task id="LOCAL-00005" summary="class basic">
+      <created>1659629673248</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659629673248</updated>
+    </task>
+    <task id="LOCAL-00006" summary="constructor">
+      <created>1659631116966</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659631116966</updated>
+    </task>
+    <task id="LOCAL-00007" summary="constructor and wrapper">
+      <created>1659670730904</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659670730904</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Singl">
+      <created>1659676056872</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659676056872</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <created>1659712561459</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1659712561459</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit">
+      <created>1659779860471</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1659779860471</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit">
+      <created>1659847401563</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1659847401565</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit">
+      <created>1659849023668</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1659849023668</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="class basic" />
+    <MESSAGE value="constructor" />
+    <MESSAGE value="constructor and wrapper" />
+    <MESSAGE value="Singl" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+</project>
